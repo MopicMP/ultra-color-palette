@@ -1,0 +1,27 @@
+{
+  "name": "ultra-color-palette",
+  "version": "1.0.0",
+  "description": "Ultra generate color palettes from a base color",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "color",
+    "css",
+    "js",
+    "palette",
+    "tool",
+    "ultra",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/ultra-color-palette.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
